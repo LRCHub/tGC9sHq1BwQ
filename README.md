@@ -1,0 +1,99 @@
+# alt-J – Breezeblocks
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.31] She may contain the urge to run away
+[00:02.54] But hold her down with soggy clothes and breezeblocks
+[00:07.08] Citrezene, your fevers gripped me again
+[00:09.40] Never kisses, all you ever send are fullstops
+[00:12.18] (La la la la)
+[00:18.68] 
+[00:13.48] Do you know where the wild things go?
+[00:16.15] They go along to take your honey
+[00:18.34] (La la la la)
+[00:19.59] Break down, now weep
+[00:20.64] Build up breakfast, now let's eat
+[00:21.91] My love, my love, love, love
+[00:25.09] (La la la la)
+[00:31.59] 
+[00:25.75] Muscle to muscle and toe to toe
+[00:29.12] The fear has gripped me but here I go
+[00:32.22] My heart sinks as I jump up
+[00:35.34] Your hand grips hand as my eyes shut
+[00:53.34] 
+[00:51.58] Do you know where the wild things go?
+[00:54.24] They go along to take our honey
+[00:56.88] (La la la la)
+[00:57.84] Break down, now sleep
+[00:58.94] Build up breakfast now let's eat
+[01:00.29] My love, my love, love, love
+[01:14.29] 
+[01:04.10] She bruises, coughs, she splutters pistol shots
+[01:06.95] Hold her down with soggy clothes and breezeblocks
+[01:09.64] (La la la la)
+[01:10.72] She's morphine, queen of my vaccine
+[01:13.13] My love, my love, love, love
+[01:16.16] (La la la la)
+[01:22.66] 
+[01:17.15] Muscle to muscle and toe to toe
+[01:20.25] The fear has gripped me but here I go
+[01:23.40] My heart sinks as I jump up
+[01:26.76] Your hand grips hand as my eyes shut
+[01:44.76] 
+[01:56.30] She may contain the urge to runaway
+[01:58.79] But hold her down with soggy clothes and breezeblocks
+[02:02.86] Germaline, disinfect the scene
+[02:05.28] My love, my love, love, love
+[02:08.77] Please don't go
+[02:10.72] I love you so
+[02:13.52] My lovely
+[02:18.02] 
+[02:19.97] Please don't go, please don't go
+[02:21.56] I love you so, I love you so
+[02:26.44] Please don't go, please don't go
+[02:27.96] I love you so, I love you so
+[02:30.11] Please break my heart (hey)
+[02:43.61] 
+[02:32.96] Please don't go, please don't go
+[02:34.28] I love you so, I love you so
+[02:39.17] Please don't go, please don't go
+[02:40.75] I love you so, I love you so
+[02:42.83] Please break my heart
+[02:53.33] 
+[02:45.64] Please don't go
+[02:47.10] (Please don't go) I'll eat you whole
+[02:48.88] (I'll eat you whole) I love you so
+[02:50.24] (I love you so) I love you so, I love you so
+[02:51.89] (I love you so, I love you so) please don't go
+[02:53.63] (Please don't go) I'll eat you whole
+[02:55.48] (I'll eat you whole) I love you so
+[02:57.11] (I love you so)
+[03:04.61] 
+[02:58.26] (I love you so, I love you so) please don't go
+[02:59.95] (Please don't go) I'll eat you whole
+[03:01.66] (I'll eat you whole) I love you so
+[03:02.92] (I love you so) I love you so, I love you so
+[03:05.05] (I love you so, I love you so) please don't go
+[03:06.33] (Please don't go) I'll eat you whole
+[03:08.22] (I'll eat you whole) I love you so
+[03:09.84] (I love you so)
+[03:17.34] 
+[03:11.30] (I love you so, I love you so) please don't go
+[03:12.60] (Please don't go) I'll eat you whole
+[03:14.41] (I'll eat you whole) I love you so
+[03:15.92] (I love you so) I love you so, I love you so
+[03:17.33] (I love you so, I love you so) please don't go
+[03:19.09] (Please don't go) I'll eat you whole
+[03:20.98] (I'll eat you whole) I love you so
+[03:22.97] (I love you so)
+[03:30.47] 
+[03:23.95] (I love you so, I love you so) please don't go
+[03:25.70] I'll eat you whole
+[03:27.33] I love you so
+[03:28.54] I love you so, I love you so
+[03:30.36] Please don't go
+[03:32.09] I'll eat you whole
+[03:33.78] I love you so
+[03:35.00] I love you so, I love you so
+```
