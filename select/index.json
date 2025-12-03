@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Breezeblocks",
+  "base_artist": "alt-J",
+  "createdAt": "2025-12-03T14:57:23.880276Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Breezeblocks",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/01_Breezeblocks_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Breezeblocks",
+      "artist": "alt-J (∆)",
+      "has_synced": true,
+      "path": "select/02_Breezeblocks_alt-J_(∆).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Breezeblocks (iTunes Session)",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/03_Breezeblocks_(iTunes_Session)_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Breezeblocks",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/04_Breezeblocks_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Breezeblocks",
+      "artist": "Alt-J",
+      "has_synced": true,
+      "path": "select/05_Breezeblocks_Alt-J.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Breezeblocks (Tom Vek's SFX Remix)",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/06_Breezeblocks_(Tom_Vek's_SFX_Remix)_alt-J.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Breezeblocks (B-JU Remix)",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/07_Breezeblocks_(B-JU_Remix)_alt-J.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Breezeblocks (Live)",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/08_Breezeblocks_(Live)_alt-J.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Breezeblocks",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/09_Breezeblocks_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Breezeblocks",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/10_Breezeblocks_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Breezeblocks (B-Ju remix)",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/11_Breezeblocks_(B-Ju_remix)_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Breezeblocks (Rockdaworld Remix)",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/12_Breezeblocks_(Rockdaworld_Remix)_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Breezeblocks (Rockdaworld remix)",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/13_Breezeblocks_(Rockdaworld_remix)_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Breezeblocks (Submerse Remix)",
+      "artist": "alt-J",
+      "has_synced": true,
+      "path": "select/14_Breezeblocks_(Submerse_Remix)_alt-J.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Breezeblocks (Submerse remix)",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/15_Breezeblocks_(Submerse_remix)_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Breezeblocks (Tom Vek's SFX remix)",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/16_Breezeblocks_(Tom_Vek's_SFX_remix)_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Breezeblocks (Alt-J vs. NOC/// Mix)",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/17_Breezeblocks_(Alt-J_vs._NOC__Mix)_alt-J.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Breezeblocks (alt‐J vs. NOC/// mix)",
+      "artist": "alt‐J",
+      "has_synced": false,
+      "path": "select/18_Breezeblocks_(alt‐J_vs._NOC__mix)_alt‐J.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Breezeblocks (alt‐J vs․ NOC⁄⁄⁄ mix)",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/19_Breezeblocks_(alt‐J_vs._NOC⁄⁄⁄_mix)_alt-J.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Breezeblocks",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/pl_01_Breezeblocks_alt-J.txt"
+    }
+  ]
+}
